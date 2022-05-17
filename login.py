@@ -1,7 +1,3 @@
-from ast import And
-from operator import and_
-
-
 kayitliKullanici="admin"
 kayitliSifre="123456"
 kullaniciAdi=input("Kullanıcı Adınızı Giriniz: ")
